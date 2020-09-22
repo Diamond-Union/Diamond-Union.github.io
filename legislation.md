@@ -4,4 +4,4 @@
 
 [The Argument Act 2020](legislation/argument)
 
-[Govenor Elective Office Act 2020](legislation/governor-elective-office)
+[Governor Elective Office Act 2020](legislation/governor-elective-office)
