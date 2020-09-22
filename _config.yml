@@ -1,2 +1,6 @@
 title: Diamond Union
 theme: jekyll-theme-dinky
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
