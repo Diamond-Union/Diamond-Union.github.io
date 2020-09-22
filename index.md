@@ -1,4 +1,3 @@
-<title>Diamond Union</title>
 # Diamond Union
 
 ## About
