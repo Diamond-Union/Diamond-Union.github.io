@@ -7,11 +7,15 @@ Welcome to the Diamond Union! We are a Scratch organization/federation that love
 ## The Team
 
 The following individuals are part of the Diamond Union Executive Branch!
+
 **@MClovers, the Co-Leader**
+
 **@CaptainRatlex, the Co-Leader**
+
 **@NYCDOT, the Executive Director**
+
 **@ajsya, the Secretary**
 
 ## Legislation
 
-Please visit our [legislation website] (legislation.md) to see all our bills and acts!
+Please visit our [legislation website](legislation.md) to see all our bills and acts!
