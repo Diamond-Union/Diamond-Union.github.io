@@ -18,4 +18,4 @@ The following individuals are part of the Diamond Union Executive Branch!
 
 ## Legislation
 
-Please visit our [legislation website](legislation.md) to see all our bills and acts!
+Please visit our [legislation website](legislation) to see all our bills and acts!
