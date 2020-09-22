@@ -1,3 +1,4 @@
+```markdown
 # Governor Elective Office Bill
 
 ### Section 1: Purpose
@@ -44,3 +45,4 @@ c) In general, Votes can be verified.
 4) In the event no candidate receives a majority of 1 votes, the person with the least amount of total 1 votes shall be eliminated, and any person who voted for the eliminated candidate shall have their number 2 through x votes be raised by 1, at which point the person who receives the new majority of 1 votes becomes the winner. 
 5) The process as outlined in subsection 4 shall be repeated whenever necessary. 
 6) Members of the Executive Chamber may not vote, however shall be responsible for facilitating elections. They shall be able to vote collectively only in the event of a tie.
+```
