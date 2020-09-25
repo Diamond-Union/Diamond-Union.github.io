@@ -14,4 +14,6 @@ Diamond Union Future Bill: Second Executive Reading
 
 Diamond Union Representation Bill: House Vote
 
-Diamond Input Bill: First Reading
+Diamond Input Bill: First Executive Reading
+
+Complication Management Bill: First Executive Reading
