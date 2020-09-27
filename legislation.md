@@ -8,12 +8,12 @@
 
 [Governor Elective Office Act 2020](https://hackmd.io/1pHucq-ySTCPOfZwf5Siig?view)
 
+[Diamond Union Representation for Shops, Customers and Staff Act September 2020](https://hackmd.io/XalBJc_hTn2vTocHud1MYw?view)
+
 ## Directive Progress
 
-Diamond Union Future Bill: Second Executive Reading
+Diamond Union Future Bill: Final Vote
 
-Diamond Union Representation Bill: House Vote
+Diamond Input Bill: Final Vote
 
-Diamond Input Bill: First Executive Reading
-
-Complication Management Bill: First Executive Reading
+Complication Management Bill: Final Vote
