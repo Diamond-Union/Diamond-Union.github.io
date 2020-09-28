@@ -10,10 +10,10 @@
 
 [Diamond Union Representation for Shops, Customers and Staff Act September 2020](https://hackmd.io/XalBJc_hTn2vTocHud1MYw?view)
 
+[Diamond Union Restoration Act September 2020](https://hackmd.io/dIw395hBRhSvXHceowJAXw?view)
+
+[Diamond Union Input Act September 2020](https://hackmd.io/CDdb2BklQRus7--eOQ7Zdg?view)
+
+[Complication Management, Punishment and Resolution Act September 2020](https://hackmd.io/2aWyq4rAQFyae4Diy9cR8A?view)
+
 ## Directive Progress
-
-Diamond Union Future Bill: Final Vote
-
-Diamond Input Bill: Final Vote
-
-Complication Management Bill: Final Vote
