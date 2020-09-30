@@ -16,4 +16,6 @@
 
 [Complication Management, Punishment and Resolution Act September 2020](https://hackmd.io/2aWyq4rAQFyae4Diy9cR8A?view)
 
+[Establishment of the Senate Act September 2020](https://hackmd.io/l1WLazspS3WvfTphtKqfUg?view)
+
 ## Directive Progress
